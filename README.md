@@ -1,4 +1,4 @@
-# Deep-learning-based-tomographyreconstruction-with-less-data-
+# Deep-learning-based-tomography-reconstruction-with-less-data-
 
 *Abstract  
 Provide a brief summary of the invention and its key points of novelty.    
