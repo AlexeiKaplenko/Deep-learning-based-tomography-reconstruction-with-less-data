@@ -1,3 +1,7 @@
+![Farmers Market Finder Demo](original_compressed.gif)
+
+![Farmers Market Finder Demo](eight_times_less_projections_compressed.gif)
+
 
 The framework consists of two networks:
 1) GAN for sinogram inpainting. It was supervised trained using 3D reconstructions of TEM tomograms (ground truth labels). We took a smaller number of projections through reconstructed volume than the projection number that was used for original reconstruction. Using Radon transformation we can create sinograms from projections, each row in sinogram corresponds to one projection taken at a particular angle. In the case of sparse projections, rows with zero values will appear in the sinogram. Thus, the problem can be formulated as image inpainting where only each n-th row is present (sparse angles projections) or rows from x to y are not present (missing wedge problem). 
