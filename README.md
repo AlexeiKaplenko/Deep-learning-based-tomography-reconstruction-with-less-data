@@ -1,5 +1,7 @@
+#Original 3D reconstruction
 ![Farmers Market Finder Demo](original_compressed.gif)
 
+#Eight times less projections were used for reconstruction, the rest of the projections was inpainted by GAN
 ![Farmers Market Finder Demo](eight_times_less_projections_compressed.gif)
 
 
