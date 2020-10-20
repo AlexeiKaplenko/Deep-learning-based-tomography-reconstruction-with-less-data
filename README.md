@@ -1,3 +1,9 @@
+## Sparse sinogram in Radon Space
+![Farmers Market Finder Demo](sinogram1.png)
+
+## GAN inpainted sinogram
+![Farmers Market Finder Demo](sinogram2.png)
+
 ## Original 3D reconstruction
 ![Farmers Market Finder Demo](original_compressed_300px.gif)
 
